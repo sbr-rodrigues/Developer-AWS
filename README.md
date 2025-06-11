@@ -9,3 +9,4 @@ Laboratórios de developer da AWS:
 
 4° Laboratório - Tópico SNS e filas SQS Padrão e DLQ - Neste laboratório, você irá criar um fluxo de mensagens desacoplado utilizando SNS (Simple Notification Service) e SQS (Simple Queue Service) com uma Dead-Letter Queue (DLQ). Esse cenário simula a arquitetura de microsserviços, onde eventos são publicados e processados de forma assíncrona, com tolerância a falhas.
 
+5° Laboratório - Lambda com aliases e API Gateways - Este laboratório demonstra uma prática essencial para gerenciar múltiplos ambientes (como desenvolvimento e produção) de forma organizada e segura em aplicações serverless, utilizando as funcionalidades de versionamento e direcionamento do Lambda e API Gateway.
