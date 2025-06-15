@@ -12,3 +12,5 @@ Laboratórios de developer da AWS:
 5° Laboratório - Lambda com aliases e API Gateways - Este laboratório demonstra uma prática essencial para gerenciar múltiplos ambientes (como desenvolvimento e produção) de forma organizada e segura em aplicações serverless, utilizando as funcionalidades de versionamento e direcionamento do Lambda e API Gateway.
 
 6° Laboratório - Jogo de Adivinhação com AWS Lambda, API Gateway e S3 - Neste laboratório, você aprenderá a criar e gerenciar uma aplicação serverless na AWS, integrando múltiplos serviços para desenvolver um jogo de adivinhação.
+
+7° Laboratório - DynamoDB GLI e LSI - Neste laboratório, você aprenderá a criar uma tabela no DynamoDB com índices secundários locais (LSI) e globais (GLI), além de realizar operações de inserção e consulta utilizando tanto o console da AWS quanto o terminal CloudShell.
