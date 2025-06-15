@@ -1,0 +1,306 @@
+Pular para o conteúdo principal
+Google Sala de Aula
+Sala de Aula
+C5 MAI - AWS Developer 6
+Noite
+Mural
+Atividades
+Pessoas
+Todos os temas
+Aula Técnica: Material Complementar
+Aula Técnica: Material Complementar
+Material
+AWS CDK 101 - SAM Local to Test and Debug Lambda Functions
+Item postado: 6 de jun.
+Material
+Passo a passo de configuração - Jupyter Notebook
+Item postado: 26 de mai.
+Material
+AWS Well-Architected Framework
+Item postado: 21 de mai.
+Gravação das Aulas
+Gravação das Aulas
+Material
+Aula 12 - Domínio 2 - Segurança na AWS - Autorização e Autenticação
+Item postado: 13 de jun.
+Material
+Aula 11 - Uso de Data Stores em Aplicações
+Item postado: 12 de jun.
+Material
+Aula 10 - Desenvolvendo e Configurando AWS Lambda
+Última edição: 12 de jun.
+Material
+Aula 9 - Interagindo com AWS Services via SDK e APIs
+Última edição: 12 de jun.
+Material
+Aula 8 - Domínio 1 - Resiliência e Tolerância a Falhas parte 1 e 2
+Última edição: 12 de jun.
+Material
+Aula 7 - Domínio 1 - Gerenciamento de Identidade e Integração Avançada
+Última edição: 12 de jun.
+Material
+Aula 6 - Dominio 1 (EC2, API gateway, S3) - 30/05/2025
+Última edição: 12 de jun.
+Material
+Aula 5 - Dominio 1 (Arquitetura Stateless vs Statefull, AWS Lambda, AWS SNS, AWS SQS) - 29/05/2025
+Última edição: 12 de jun.
+Material
+Aula 4 - 26/05/2025
+Item postado: 26 de mai.
+Material
+Aula 3 - 23/05/2025
+Item postado: 23 de mai.
+Aula inaugural Técnica
+Aula inaugural Técnica
+Material
+Aula Inaugural AWS Developer Associate
+Item postado: 29 de mai.
+Aula Técnica: Slides
+Aula Técnica: Slides
+Material
+Aula 12
+Item postado: 13 de jun.
+Material
+Aula 11
+Item postado: 12 de jun.
+Material
+Aula 10 - Domínio 1 - Interagindo com AWS Services via SDK e APIs pt2
+Item postado: 9 de jun.
+Material
+Aula 9 - Domínio 1 - Interagindo com AWS Services via SDK e APIs pt1
+Item postado: 9 de jun.
+Material
+Aula 8 - Domínio 1 - Criação e Manutenção de APIs pt2
+Item postado: 5 de jun.
+Material
+Aula 7 - Domínio 1 - Criação e Manutenção de APIs pt1
+Item postado: 5 de jun.
+Material
+Aula 6 - Domínio 1 - Resiliência e Tolerância a Falhas pt2
+Item postado: 3 de jun.
+Material
+Aula 5 - Domínio 1 - Resiliência e Tolerância a Falhas pt1
+Última edição: 3 de jun.
+Material
+Aula 4 - Domínio 1 - Gerenciamento de Identidade e Integração Avançada
+Última edição: 1 de jun.
+Material
+Aula 3 - Domínio 1 - Arquitetura e Padrões de Desenvolvimento pt2
+Última edição: 1 de jun.
+Aula Técnica: Simulados Semanais
+Aula Técnica: Simulados Semanais
+Concluída Atividade
+Simulado 01
+11
+11 comentários
+Atividade
+Data de entrega: 13 de jun., 19:00
+Aula Técnica: Quizes
+Aula Técnica: Quizes
+Concluída Atividade
+Quiz 03
+1
+1 comentário
+Atividade
+Data de entrega: 23:59
+Concluída Atividade
+Quiz 02
+2
+2 comentários
+Atividade
+Data de entrega: 8 de jun., 23:59
+Concluída Atividade
+Quiz 01
+12
+12 comentários
+Atividade
+Data de entrega: 1 de jun., 23:59
+Aula Técnica: Laboratórios
+Aula Técnica: Laboratórios
+Concluída Atividade
+Laboratório - DynamoDB GLI e LSI
+Atividade
+Data de entrega: 18 de jun., 23:59
+Material
+Laboratório 6 - Jogo de Adivinhação com AWS Lambda, API Gateway e S3 (Resolução)
+Última edição: 08:08
+Concluída Atividade
+Laboratório 6 - Jogo de Adivinhação com AWS Lambda, API Gateway e S3
+1
+1 comentário
+Atividade
+Data de entrega: 23:59
+Material
+Laboratório 5 - AWS Lambda com Aliases e API Gateway com Stages (Resolução)
+Última edição: 08:07
+Concluída Atividade
+Laboratório 5 - AWS Lambda com Aliases e API Gateway com Stages
+Atividade
+Data de entrega: 23:59
+Item postado: 9 de jun. (editado: 08:07)
+Entregue
+Neste laboratório, você irá configurar uma arquitetura serverless organizada por ambientes (como desenvolvimento e produção), utilizando e . Essa abordagem permite controlar o ciclo de vida da aplicação com segurança e agilidade.
+
+Passos para Conclusão do Laboratório:
+Criar uma função AWS Lambda compatível com a integração Proxy do API Gateway.
+Publicar pelo menos duas versões da função Lambda para representar diferentes estados do código.
+Criar Aliases no Lambda (ex: dev, prod) apontando para versões específicas da função.
+Criar uma API REST no API Gateway.
+Configurar a integração do tipo Proxy entre a API Gateway e a função Lambda.
+Criar Stages no API Gateway (ex: Desenvolvimento, Producao) representando os ambientes.
+Integrar cada Stage com o Alias correspondente da função Lambda.
+Testar os endpoints dos Stages (/dev, /prod) para garantir que cada um acione a versão correta da função Lambda.
+Compreender os benefícios do uso combinado de Aliases (Lambda) e Stages (API Gateway) para o gerenciamento do ciclo de vida e implantação controlada de aplicações serverless
+Avaliação:
+Print com versões e Aliases criados no Lambda – 35 pontos
+Print dos Stages no API Gateway - 35
+Print dos testes realizados nos endpoints /dev e /prod com as respostas distintas – 30 pontos
+
+Em anexo, seguem as instruções detalhadas do laboratório, assim como os arquivos que serão utilizados ao longo do processo.
+
+Cód. py do ambiente de DESENVOLVIMENTO.txt
+Texto
+
+Cód. py do ambiente de PRODUÇÃO.txt
+Texto
+
+LABORA~1.PDF
+PDF
+Material
+Laboratório 4 - Tópico SNS e filas SQS Padrão e DLQ
+Item postado: 5 de jun.
+Concluída Atividade
+Laboratório - Tópico SNS e filas SQS Padrão e DLQ
+1
+1 comentário
+Atividade
+Data de entrega: Ontem, 23:59
+Material
+Laboratório - Automatizando o Fim das Instâncias na AWS
+Item postado: 1 de jun.
+Concluída Atividade
+Laboratório - Automatizando o Fim das Instâncias na AWS
+9
+9 comentários
+Atividade
+Data de entrega: Ontem, 23:59
+Material
+Laboratório - Criando um Orçamento na AWS com Budget
+Item postado: 31 de mai.
+Concluída Atividade
+Laboratório - Criando um Orçamento na AWS com Budget
+11
+11 comentários
+Atividade
+Data de entrega: Ontem, 23:59
+Material
+Laboratório Explorando a AWS com EC2
+1
+1 comentário
+Última edição: 30 de mai.
+Concluída Atividade
+Laboratório - Explorando a AWS com o Amazon EC2
+4
+4 comentários
+Atividade
+Data de entrega: Ontem, 23:59
+Aula Técnica: Apostila
+Aula Técnica: Apostila
+Material
+Apostila AWS Developer Associate - Domínio 1
+1
+1 comentário
+Item postado: 29 de mai.
+Preparo Comportamental
+Preparo Comportamental
+Concluída Atividade
+Quiz 5 - Gestão de Projetos
+5
+5 comentários
+Sem data de entrega
+Concluída Atividade
+Quiz 4 - Gestão de Conflitos
+5
+5 comentários
+Sem data de entrega
+Concluída Atividade
+Quiz 3 - Análise de dados e cenário 
+4
+4 comentários
+Sem data de entrega
+Concluída Atividade
+Quiz 2 - Foco no Cliente
+11
+11 comentários
+Sem data de entrega
+Concluída Atividade
+Quiz 1 - Antifrágil
+14
+14 comentários
+Sem data de entrega
+Material de Apoio
+Material de Apoio
+Material
+Material de Apoio - Gestão de Projetos
+Item postado: 11 de jun.
+Material
+Gestão de Conflitos
+Item postado: 4 de jun.
+Material
+Análise de Dados
+Item postado: 28 de mai.
+Material
+Foco no Cliente
+Item postado: 21 de mai.
+Material
+Antifrágil
+Item postado: 19 de mai.
+Links Úteis
+Links Úteis
+Material
+O que são ARNs na AWS
+Item postado: 6 de jun.
+Material
+Exercism
+1
+1 comentário
+Item postado: 2 de jun.
+Material
+URLs e sua estrutura
+Item postado: 30 de mai.
+Material
+Planilha de acompanhamento de turma
+Item postado: 29 de mai.
+Material
+Credenciais AWS
+9
+9 comentários
+Item postado: 28 de mai.
+import json
+import os
+
+def lambda_handler(event, context):
+    try:
+        stage = event['requestContext']['stage']
+    except KeyError:
+        stage = 'desconhecido'
+
+    response_body = {
+        'message': f'Ola do ambiente de Producao!',
+        'functionVersion': context.function_version,
+        'functionAlias': (
+            context.invoked_function_arn.split(':')[-1]
+            if ':' in context.invoked_function_arn else '$LATEST'
+        )
+    }
+
+    return {
+        'statusCode': 200,
+        'headers': {
+            'Content-Type': 'application/json',
+            'Access-Control-Allow-Origin': '*'
+        },
+        'body': json.dumps(response_body, ensure_ascii=False)
+    }
+Cód. py do ambiente de PRODUÇÃO.txt
+Exibindo Cód. py do ambiente de PRODUÇÃO.txt…
