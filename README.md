@@ -14,3 +14,7 @@ Laboratórios de developer da AWS:
 6° Laboratório - Jogo de Adivinhação com AWS Lambda, API Gateway e S3 - Neste laboratório, você aprenderá a criar e gerenciar uma aplicação serverless na AWS, integrando múltiplos serviços para desenvolver um jogo de adivinhação.
 
 7° Laboratório - DynamoDB GLI e LSI - Neste laboratório, você aprenderá a criar uma tabela no DynamoDB com índices secundários locais (LSI) e globais (GLI), além de realizar operações de inserção e consulta utilizando tanto o console da AWS quanto o terminal CloudShell.
+
+8° Laboratório – SSM Parameter Store Hands on (CLI) - Neste laboratório prático, você aprenderá a criar e gerenciar parâmetros utilizando o AWS Systems Manager Parameter Store, incluindo parâmetros seguros
+criptografados com chaves do KMS (AWS Key Management Service), além de acessar os valores por meio da AWS CLI no CloudShell.
+
