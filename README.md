@@ -18,3 +18,5 @@ Laboratórios de developer da AWS:
 8° Laboratório – SSM Parameter Store Hands on (CLI) - Neste laboratório prático, você aprenderá a criar e gerenciar parâmetros utilizando o AWS Systems Manager Parameter Store, incluindo parâmetros seguros
 criptografados com chaves do KMS (AWS Key Management Service), além de acessar os valores por meio da AWS CLI no CloudShell.
 
+9° Laboratório - Amazon S3 Básico, Avançado e Acesso a Logs - Neste laboratório prático, você aprenderá a utilizar os principais recursos do Amazon S3 voltados à organização, segurança e gerenciamento eficiente de dados. Serão abordadas práticas recomendadas para criação de buckets com configurações seguras, controle de versões de arquivos, automação de regras de ciclo de vida, e geração de URLs pré- assinadas para compartilhamento temporário e seguro de objetos. Além disso, será demonstrada a ativação e configuração do servidor de logs de acesso, utilizando um segundo bucket dedicado ao armazenamento dos registros de operação. Ao final, você estará apto a aplicar esses conhecimentos em ambientes reais, promovendo maior controle, rastreabilidade e otimização no uso do Amazon S3.
+
