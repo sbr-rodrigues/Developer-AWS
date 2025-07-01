@@ -61,3 +61,6 @@ Este repositório contém os laboratórios realizados durante o curso de AWS Clo
 O objetivo deste repositório é registrar o progresso no aprendizado da AWS, aplicar boas práticas de infraestrutura como código, automação e segurança em cloud computing.
 
 ---
+
+💬 Ficou com vontade de saber mais ou quer dicas de como melhorar esse README com imagens, badges ou estrutura mais avançada? Posso te ajudar a deixar isso brilhando como uma instância EC2 recém-criada 🌟
+
