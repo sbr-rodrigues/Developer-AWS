@@ -1,7 +1,7 @@
 # Developer-AWS
 Laboratórios de developer da AWS:
 
-# 🚀 AWS Cloud Labs – Curso AWS para Iniciantes
+# 🚀 AWS Cloud Labs DEVELOPS – Curso AWS para Iniciantes
 
 Este repositório contém os laboratórios realizados durante o curso de AWS Cloud, com foco em diversos serviços da AWS. Aqui estão registradas minhas experiências práticas usando CLI, Console, e integrações entre serviços para aprender sobre arquitetura na nuvem.
 
