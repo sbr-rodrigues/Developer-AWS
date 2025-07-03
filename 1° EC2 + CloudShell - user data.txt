@@ -33,13 +33,7 @@ echo '<html>
         hr {
             color: #dce1e6;
         }
-        ul {
-            margin-top: auto; 
-            list-style: none;
-            padding: 20%;
-            text-align: left;
-        }
-        li {
+            li {
             margin-top: 5px;
             padding: 5px;
             font-weight: bold;
@@ -60,6 +54,7 @@ echo '<html>
             <li>XXXXXXXXX</li>
             <li>XXXXXXXXl</li>
         </ul>
+        <section>
         <iframe width="560" height="315" src="https://www.youtube.com/XXXXXXX" title="Vídeo apresentação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
        </section>
     </div>
